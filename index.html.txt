@@ -6,5 +6,7 @@
 		git master 부분
 		<li> 소개 </li>
 		인사
+		출동
+		브랜치
 	</body>
 </html>
